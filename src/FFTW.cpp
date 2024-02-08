@@ -1,3 +1,5 @@
+// http://www.fftw.org/pruned.html
+
 #include <stdio.h>
 #include <tchar.h>
 #include <iostream>
