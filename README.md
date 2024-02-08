@@ -24,11 +24,10 @@ The real-world datasets are available at [Cityscapes](https://www.cityscapes-dat
 
 | **Dataset** | **Type** | **# of Images** | **Size** |
 | :----------- | :----------- | -----------: | -----------: |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
-| Left-aligned | Left-aligned | Right-aligned | Right-aligned |
+| $S_{n=8,\cdots,15}$ | Synthetic | 1K | $2^n \times 2^n$ |
+| Cityscapes | Real-world | 5K | $2048 \times 1024$ |
+| ADE20K | Real-world | 20K | $2048 \times 2048$ |
+| DF2K | Real-world | 3K | $2040 \times 1536$ |
+| RiceLeaf | Real-world | 3.3K | $3120 \times 3120$ |
+| Bird | Real-world | 306 | $6000 \times 4000$ |
 
