@@ -1,7 +1,7 @@
 /*****************************************************************************
 *    This is an implementation of Fast Multidimensional Partial              *
 *    Fourier Transform with Automatic Hyperparameter Selection               *
-*    (submitted to KDD 2024).                                 .              *
+*    (submitted to KDD 2024).                                                *
 *                                                                            *
 *    Note that this code example is specifically designed for                *
 *    2d real-valued input with a target range centered at zero               *
