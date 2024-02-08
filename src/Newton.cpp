@@ -1,7 +1,7 @@
 /*****************************************************************************
 *    This is an implementation of Fast Multidimensional Partial              *
 *    Fourier Transform with Automatic Hyperparameter Selection               *
-*    (submitted to KDD 2024).                                 .              *
+*    (submitted to KDD 2024).                                                *
 *                                                                            *
 *    This code contains the optimzation algorithm for finding                *
 *    the optimal hyperparameter of Auto-MPFT using Newton's method.          *
