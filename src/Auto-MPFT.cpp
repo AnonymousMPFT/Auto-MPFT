@@ -7,6 +7,8 @@
 *    2d real-valued input with a target range centered at zero               *
 *    for the best performance. A slight modification removes the             *
 *    constraint; please refer to the original paper for more details.        *
+*                                                                            *
+*    This code also contains the implementation of MKL DFTI.                 *
 *****************************************************************************/
 
 #include <stdio.h>
